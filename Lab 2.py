@@ -5,14 +5,16 @@ def main():
                 'full_name':'Dhruvkumar Patel',
                 'student_id':'10284633',
                 'pizza_toppings':['LETTUCE','GREEN ONION','CILANTRO'],
-                'movies':[{
+                'movies':[
+                    {
                     'title':'main hoo na',
                     'genre':'family'
-                },
-                {
-                'title':'bahubali',
-                'genre':'action'
-                 }]
+                    },
+                    {
+                    'title':'bahubali',
+                    'genre':'action'
+                    }
+                    ]
             }
 
     #TODO: step 3 - Add another movie to the data structure
